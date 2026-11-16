@@ -1,0 +1,6 @@
+# Public Downloads Repository .gitignore
+# Binaries are attached to GitHub Releases, not stored in git history
+release/
+*.exe
+*.apk
+*.msi
